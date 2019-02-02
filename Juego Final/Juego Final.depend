@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1549134530 source:c:\users\sebastian\documents\ciencias de la computacion i\juego final\main.cpp
+	<iostream>
+	<cstdlib>
+	<allegro.h>
+	<fstream>
+	<algorithm>
+
